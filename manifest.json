@@ -1,0 +1,17 @@
+{
+  "name": "Exness",
+  "short_name": "Exness",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1A2E",
+  "theme_color": "#0F1A2E",
+  "description": "Exness quantitative trading interface.",
+  "icons": [
+    {"src":"./icons/icon-72x72.png","sizes":"72x72","type":"image/png"},
+    {"src":"./icons/icon-192x192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icons/icon-512x512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
